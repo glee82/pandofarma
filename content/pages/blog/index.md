@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: This is an optional subtitle for the blog page
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 seo:
   title: Blog
