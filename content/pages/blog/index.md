@@ -30,4 +30,5 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: blog
+image: /images/fotoefectos.com_ (1)-cecea25d.jpg
 ---
