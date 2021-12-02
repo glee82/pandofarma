@@ -47,24 +47,6 @@
                 "subnav_links": []
             },
             {
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "label": "Contacto",
                 "url": "/style-guide",
                 "style": "link",
